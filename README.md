@@ -3,7 +3,7 @@
 <p align='center'> <samp>AI Analyst | Theoretical Physicist | Mathematician | ML & DL Engineer| Philosopher.</samp></p>
 <br><br>
 <p align='center'>
- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=matrixjnr)](https://github.com/matrixjnr)
+ <a href="https://github.com/matrixjnr"><img src="https://github-contribution-stats.vercel.app/api/?username=matrixjnr" alt="Contribution Stats"></a>
  </p>
 <p align='center'>
 <a href=https://www.linkedin.com/in/john-simiyu"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;

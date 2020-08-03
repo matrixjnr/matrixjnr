@@ -7,6 +7,7 @@
 <p align='center'>
  <a href="https://github.com/matrixjnr"><img src="https://github-contribution-stats.vercel.app/api/?username=matrixjnr" alt="Contribution Stats"></a>
  </p>
+ <p align='center'>
 <a href=https://www.linkedin.com/in/john-simiyu"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://matrixjnr.github.io/"><img height="27" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/external.png?raw=true" alt=""></a>&nbsp;&nbsp;
 <a href="mailto:jonnyeinstein@gmail.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt=""></a>

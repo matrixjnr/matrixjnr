@@ -20,8 +20,19 @@ or <a href="mailto:jonnyeinstein@gmail.com"><b>email</b></a> me.
 </div>
 
 <div align="center">
+  
+## My Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=matrixjnr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Matrix's Github Stats">
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=matrixjnr&theme=gotham" />
+    </div>
+    <div style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=matrixjnr&theme=gotham&custom_title=Matrix%20github%20stats" />
+    </div>
+</div>
+
+![Johns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmatrix&theme=gotham&layout=compact)
 
 </br>
 </br>
@@ -36,6 +47,7 @@ or <a href="mailto:jonnyeinstein@gmail.com"><b>email</b></a> me.
 <a href="https://www.linkedin.com/in/john-simiyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/jmatrixjnr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/matrixjnr" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://wakatime.com/@0774eded-92ca-44ec-8e2e-a8b98ca18958"><img src="https://wakatime.com/badge/user/0774eded-92ca-44ec-8e2e-a8b98ca18958.svg" alt="Total time coded since Nov 22 2021" /></a>
 
 </div>
 

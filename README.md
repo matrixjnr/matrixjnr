@@ -1,43 +1,51 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
-
 <div align="center" width="50">
 
-<img src="https://gist.githubusercontent.com/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://gist.githubusercontent.com/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif" alt="Welcome!" width="50%" height="200"/>
 
 </div>
 
-<div align="center">
+I'm a passionate Software & Telecommunication Engineer
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/matrixjnr/matrixjnr/issues/new"><b>here</b></a><br>
-or <a href="mailto:jonnyeinstein@gmail.com"><b>email</b></a> me.
+**About me**
 
-<i>Happy Coding!</i> 😊
+- 💼 Senior Engineer at [ECH](https://emergingcapitalholdings.co.ke/)
 
-</div>
+- 📈 Built Java, Clojure & Ruby on Rails functionality in [Piku](https://github.com/piku/piku)
 
-<div align="center">
-  
-## My Github Stats
+- ❤️ I love writing Java, Python, Dart, JS, C & D.
+- You can also find me writing some Golang, Perl & Ruby
+- Frameworks: Flutter, Spring Boot, Flask, Express, Restify, Vibe.d, Vaadin, React, Next
 
-<div style="display: flex;">
-    <div style="width: 50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=matrixjnr&theme=gotham" />
-    </div>
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=matrixjnr&theme=gotham&custom_title=Matrix%20github%20stats" />
-    </div>
-</div>
+- 💬 Ask me about anything [here](https://github.com/matrixjnr/matrixjnr/issues)
 
-![Johns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmatrix&theme=gotham&layout=compact)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=matrixjnr&theme=gotham" /> | <img src="https://github-readme-stats.vercel.app/api?username=matrixjnr&theme=gotham&custom_title=Matrix%20github%20stats" /> |
+| ------------- | ------------- |
+
+| ![Johns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmatrix&theme=gotham&layout=compact) | <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> |
+| ------------- | ------------- |
+
+#### Top Open Source Project
+
+
+<a href="https://github.com/piku/piku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+</a>
+<a href="https://github.com/matrixjnr/piku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piku&repo=piku&theme=buefy" />
+</a>
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 
 ---
 [![HitCount](http://hits.dwyl.com/matrixjnr/matrixjnr.svg)](http://hits.dwyl.com/matrixjnr/matrixjnr)

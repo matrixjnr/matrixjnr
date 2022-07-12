@@ -11,7 +11,7 @@ I'm a passionate Software & Telecommunication Engineer
 
 **About me**
 
-- 💼 Senior Engineer at [ECH](https://emergingcapitalholdings.co.ke/)
+- 💼 Senior Backend Engineer at [Glovo](https://glovoapp.com/)
 
 - 📈 Built Java, Clojure & Ruby on Rails functionality in [Piku](https://github.com/piku/piku)
 

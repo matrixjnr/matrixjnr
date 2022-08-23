@@ -11,7 +11,7 @@ I'm a passionate Software & Telecommunication Engineer
 
 **About me**
 
-- 💼 Senior Backend Engineer at [Glovo](https://glovoapp.com/)
+- 💼 Senior Backend Engineer at [Klar](https://klar.mx/)
 
 - 📈 Built Java, Clojure & Ruby on Rails functionality in [Piku](https://github.com/piku/piku)
 
